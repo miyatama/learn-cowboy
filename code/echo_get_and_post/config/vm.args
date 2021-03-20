@@ -1,0 +1,6 @@
+-sname echo_get_and_post
+
+-setcookie echo_get_and_post_cookie
+
++K true
++A30
